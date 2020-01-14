@@ -1,0 +1,22 @@
+{
+  "name": "focusinput",
+  "version": "1.0.0",
+  "description": "A widget that lets you click on the outer element to focus input within the element;",
+  "main": "focusInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15067832187/focusInput.git"
+  },
+  "keywords": [
+    "input;focus;"
+  ],
+  "author": "Li Muchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15067832187/focusInput/issues"
+  },
+  "homepage": "https://github.com/15067832187/focusInput#readme"
+}
