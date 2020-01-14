@@ -1,5 +1,4 @@
 
-
 $(document).ready(function () {
     //定义点击区域,与聚焦input的class模板
     const CLICK_MODULE = "focus-input";
